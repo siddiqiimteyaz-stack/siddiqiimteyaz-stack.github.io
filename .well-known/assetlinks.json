@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.siddiqiimteyaz_stack.twa",
+      "sha256_cert_fingerprints": [
+        "EE:2D:0F:2C:EF:00:17:B9:54:02:3E:BF:3D:AA:01:03:B1:2A:68:8D:36:25:6E:56:2A:CE:0A:68:C8:9F:E9:F3"
+      ]
+    }
+  }
+]
